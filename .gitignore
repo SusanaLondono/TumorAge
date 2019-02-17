@@ -1,2 +1,3 @@
 *.txt
 *.annotated
+.ipynb_checkpoints
