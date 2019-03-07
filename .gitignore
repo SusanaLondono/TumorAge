@@ -1,5 +1,10 @@
+Missense_FunctionalImpact.ipynb
+ContarMutaciones.ipynb
+ClinicalCirrelation.ipynb
+
 *.txt
 *.annotated
-.ipynb_checkpoints
 *.maf
+
+.ipynb_checkpoints
 
