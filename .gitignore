@@ -10,6 +10,9 @@ Escrito1-Copy1.ipynb
 *.txt
 *.annotated
 *.maf
+*.jpg
+*.jpeg
+*.png
 
 .ipynb_checkpoints
 
