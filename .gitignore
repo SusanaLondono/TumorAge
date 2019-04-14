@@ -13,6 +13,8 @@ Escrito1-Copy1.ipynb
 *.jpg
 *.jpeg
 *.png
+*.csv
+*.xlsx
 
 .ipynb_checkpoints
 
